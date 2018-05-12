@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39923'
     url: http://www.gutenberg.org/2009/agents/39923
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39683#Memoranda-on-the-Maya-Calendars-Used-in-the-Books-of-Chilan-Balam
 gutenberg_issued: '2012-05-12'
 gutenberg_type: Text
 identifiers:
